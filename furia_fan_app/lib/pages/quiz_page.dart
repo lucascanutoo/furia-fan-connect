@@ -12,7 +12,7 @@ class _ProfileQuizPageState extends State<ProfileQuizPage> {
   final List<Map<String, dynamic>> questions = [
     {
       'question': 'Qual seu jogador favorito da FURIA?',
-      'options': ['KSCERATO', 'yuurih', 'arT', 'chelo', 'fallen']
+      'options': ['FalleN', 'yuurih', 'YEKINDAR', 'KSCERATO', 'molodoy']
     },
     {
       'question': 'Você prefere partidas:',
