@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'pages/login_page.dart';
-import 'pages/profile_quiz_page.dart';
+import 'pages/quiz_page.dart';
 import 'pages/result_page.dart';
 import 'pages/home_page.dart';
 import 'pages/fan_ranking_page.dart';
